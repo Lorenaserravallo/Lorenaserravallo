@@ -52,7 +52,7 @@ Oie! Meu nome é Lorena, tenho 19 anos e atualmente sou estudante de Análise e 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenaserravallo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenaserravallo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
   
 </p>
