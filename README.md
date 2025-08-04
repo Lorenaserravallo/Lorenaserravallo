@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&size=26&pause=1000&color=9D4EF7&width=550&lines=Desenvolvendo+solu%C3%A7%C3%B5es+que+impactam..." alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&size=26&pause=1000&color=9D4EF7&width=580&lines=Desenvolvendo+solu%C3%A7%C3%B5es+que+transformam..." alt="Example Usage - README Typing SVG">
 </p>
 
 
