@@ -52,11 +52,13 @@ Apaixonada por programação e design, estou constantemente buscando expandir me
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lorenaserravallo&locale=pt-br&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-<br>
 <p align="center">
+<img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="400" 
+      width="450"
+      src="https://github-readme-stats.vercel.app/api?username=lorenaserravallo&locale=pt-br&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img 
       align="center" 
       alt="GitHub Stats" 
@@ -66,4 +68,3 @@ Apaixonada por programação e design, estou constantemente buscando expandir me
   />
   
 </p>
-
