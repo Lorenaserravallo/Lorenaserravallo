@@ -1,4 +1,4 @@
-# 🦋 Lorena Serravallo
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=500&size=30&pause=1000&color=9D4EF7&width=435&lines=%F0%9F%A6%8B+Lorena+Serravallo)](https://git.io/typing-svg) 
 
 **`Desenvolvedora Front-end e UX/UI Designer`**
 
@@ -14,6 +14,7 @@ Oie! Meu nome é Lorena, tenho 19 anos e atualmente sou estudante de Análise e 
     <a href="https://instagram.com/lorenaserravallo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
 </p>
+
 
 ---
 
