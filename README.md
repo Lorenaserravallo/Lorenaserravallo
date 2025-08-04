@@ -1,13 +1,10 @@
 <h1 align="center">🦋Lorena Serravallo</h1>
 
-###
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&size=26&pause=1000&color=9D4EF7&width=580&lines=Desenvolvendo+solu%C3%A7%C3%B5es+que+transformam..." alt="Example Usage - README Typing SVG">
 </p>
 
-
-###
 
 <div align="center">
     <a href="mailto:lorenaserravallo@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
@@ -25,21 +22,18 @@
 
 Apaixonada por programação e design, estou constantemente buscando expandir meus conhecimentos em ambas as áreas para oferecer o meu melhor em tudo o que faço. Seja em projetos fictícios, pessoais ou profissionais, tenho muito entusiasmo para desenvolver soluções que impactam.
 
-###
 
+<br>
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
-###
 
 <p align="left">- 📔 Estudante de Análise e Desenvolvimento de Sistemas na USCS <br>- 👩‍🎓  Formação técnica em informática <br>- 🔍 Estudando JavaScript, Git e UI/UX Design <br>- 🤩 Entusiasta de Design</p>
-
-###
 
 <br>
 
 <h3 align="left">🛠 Linguagens e Tecnologias</h3>
 
-###
+<br>
 
 <div align="left">
   <img align="center" alt="HTML" height="40" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -54,7 +48,7 @@ Apaixonada por programação e design, estou constantemente buscando expandir me
   <img align="center" alt="Figma" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
 
-<br><br>
+<br>
 
 ### 📊 Estatísticas
 
