@@ -64,7 +64,7 @@ Apaixonada por programação e design, estou constantemente buscando expandir me
       alt="GitHub Stats" 
       height="200" 
       width="350"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenaserravallo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=11" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenaserravallo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
   
 </p>
