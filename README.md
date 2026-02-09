@@ -18,16 +18,16 @@
 <br>
 
 
-**`Desenvolvedora Front-end e UX/UI Designer`**
+**`Analista de Dados`**
 
-Apaixonada por programação e design, estou constantemente buscando expandir meus conhecimentos em ambas as áreas para oferecer o meu melhor em tudo o que faço. Seja em projetos fictícios, pessoais ou profissionais, tenho muito entusiasmo para desenvolver soluções que impactam.
+Apaixonada pela área de dados, estou constantemente buscando expandir meus conhecimentos para oferecer o meu melhor em tudo o que faço. Seja em projetos fictícios, pessoais ou profissionais, tenho muito entusiasmo para desenvolver soluções que impactam.
 
 
 <br>
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
 
-<p align="left">- 📔 Estudante de Análise e Desenvolvimento de Sistemas na USCS <br>- 👩‍🎓  Formação técnica em informática <br>- 🔍 Estudando JavaScript, Git e UI/UX Design <br>- 🤩 Entusiasta de Design</p>
+<p align="left">- 📔 Estudante de Análise e Desenvolvimento de Sistemas na USCS <br>- 👩‍🎓  Formação técnica em informática <br>- 🔍 Me aprofundando em Excel e SQL </p>
 
 <br>
 
