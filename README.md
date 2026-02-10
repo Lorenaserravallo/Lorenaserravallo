@@ -50,12 +50,5 @@ Apaixonada pela área de dados, estou constantemente buscando expandir meus conh
 
 <br>
 
-### 📊 Estatísticas
-
-<p align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorenaserravallo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaserravallo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=7" alt="GitHub Stats" />
-</p>
   
 </p>
