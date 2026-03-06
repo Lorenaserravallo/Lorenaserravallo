@@ -18,9 +18,8 @@
 <br>
 
 
-**`Analista de Dados`**
 
-Apaixonada pela área de dados, estou constantemente buscando expandir meus conhecimentos para oferecer o meu melhor em tudo o que faço. Seja em projetos fictícios, pessoais ou profissionais, tenho muito entusiasmo para desenvolver soluções que impactam.
+Apaixonada pela tecnologia, estou constantemente buscando expandir meus conhecimentos para oferecer o meu melhor em tudo o que faço. Seja em projetos fictícios, pessoais ou profissionais, tenho muito entusiasmo para desenvolver soluções que impactam.
 
 
 <br>
